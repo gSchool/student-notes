@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "galvanize-student-notes",
+    "dev": "galvanize-student-notes-dev"
+  }
+}
