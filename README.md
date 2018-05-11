@@ -61,8 +61,8 @@ This takes us to the student dashboard. Here we can see
 #### Landing page
 
 * [ ] As an instructor, I want to see a landing page when I'm not logged in
-    * [ ] The title is visible
-    * [ ] Login with Github 
+    * [x] The title is visible
+    * [x] Login with Github 
 * [ ] As an instructor, I want to be able to log in with my Github credentials
 
 #### All students list

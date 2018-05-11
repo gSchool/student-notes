@@ -9,7 +9,7 @@ class App extends Component {
           <h1>Galvanize Student Notes</h1>
         </header>
         <main>
-          <h2>Login with GitHub</h2>
+          <h2><button>Login</button> with GitHub</h2>
         </main>
       </div>
     );
